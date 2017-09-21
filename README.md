@@ -1,4 +1,4 @@
-e# insituCalibration
+# insituCalibration
 In-situ calibration methods including data visualisation of mapping displacement error.
 
 This section also includes the source code for for the data visualisation for the ply maps.
