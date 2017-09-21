@@ -7,6 +7,7 @@ This data visualisation program is in the /dataVisualisation folder.
 This produces a ply file with the colour maps of the displacemnt error depending on variable set in the program.
 
 Support for these program in the source code comments
+
 Further support and documentation can be found by emailing:
 
 phucte@gmail.com
